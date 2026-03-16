@@ -1,0 +1,12 @@
+fastapi==0.127.0
+uvicorn==0.40.0
+python-pptx==1.0.2
+langchain==1.2.0
+langchain-groq==1.1.1
+python-dotenv==1.1.1
+scikit-learn==1.8.0
+sentence-transformers==5.2.0
+torch==2.10.0
+torchvision==0.25.0
+pillow==12.1.0
+python-multipart==0.0.21
