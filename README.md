@@ -165,6 +165,10 @@ pipeline/
 extract/
    extractor.py
    semantic_cluster.py
+   layout_ai.py
+   template_render.py
+   theme.py
+   vision_layout.py
 
 template/
    analyzer.py
@@ -176,6 +180,8 @@ generator/
 
 ai/
    template_reasoner.py
+   llmp.py
+   slide_reasoner.py
 
 core/
    config.py
