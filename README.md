@@ -13,17 +13,16 @@ The goal is to transform **raw / unstructured presentations into visually consis
 
 ---
 
-## ✅ Assignment Coverage
+## Key Features
 
-| Requirement                   | Status        |
-| ----------------------------- | ------------- |
-| Content Extraction            | ✔ Implemented |
-| Template Analysis             | ✔ Implemented |
-| Template Scoring & Selection  | ✔ Implemented |
-| Final PPT Reconstruction      | ✔ Implemented |
-| AI-assisted reasoning         | ✔ Implemented |
-| Automated end-to-end pipeline | ✔ Implemented |
-
+| Feature                       | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| Content Extraction            | Automatically extracts content from input documents.                      |
+| Template Analysis             | Analyzes multiple PPT templates to identify the best structure.           |
+| Template Scoring & Selection  | Scores templates and selects the most suitable one based on content.      |
+| Final PPT Reconstruction      | Generates the final presentation using the selected template.             |
+| AI-Assisted Reasoning         | Uses AI to understand content and improve template matching.              |
+| Automated End-to-End Pipeline | Fully automated pipeline from input content to final PPT generation.      |
 ---
 
 ## 🧠 System Architecture
